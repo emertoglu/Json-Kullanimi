@@ -1,0 +1,9 @@
+{
+   "tip": "kitap",
+   "tur": "roman",
+   "urunler": [
+       {"ad": "Ihtiyar Kemanci", "yazar": "Nihat Genc"},
+       {"ad": "Su Cilgin Turkler", "yazar": "Turgut Ozakman"},
+       {"ad": "Kar", "yazar": "Orhan Pamuk"}
+       ]
+}
